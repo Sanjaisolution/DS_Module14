@@ -12,7 +12,7 @@ To incorporate the code to calculate the Total Waiting Time and Average Waiting 
 ## Program:
 ```
 Program to find the Total Waiting Time and Average Waiting Time in Shortest Job First scheduling algorithm.
-Developed by: SANAJAI R
+Developed by: SANJAI R
 RegisterNumber:  212223040180
 
 #include<stdio.h>
